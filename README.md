@@ -25,7 +25,44 @@ that changes with temperature and other projects.
 
 Items needed with approximate cost.
 
+-   Case, 3D printed -- \$2 of PLA filament.
+
+-   Half breadboard -- \$5.
+
+-   Lolin S2Mini microcontroller board -- \$5.
+
+    -   Option: TinyS2 -- ESP32-S2 Development Board from AdaFruit --
+        \$19.
+    -   Adafruit ESP32-S2 Feather -- \$18.
+
+-   Thermocouple breakout board, MAX31855 -- \$15.
+
+-   Type K thermocouple -- \$10.
+
+-   Miscellaneous electronic supplies:
+
+    -   100 Ω resistor.
+    -   Sample resistor \<= 100 Ω.
+    -   Hook up wire, 22AWG Solid Core.
+
+-   **Total**: \$56
+
 **Tools and Equipment**:
+
+-   Computer.
+
+-   USB C cable.
+
+-   Soldering iron.
+
+-   Wire strippers.
+
+-   Optional:
+
+    -   Wire cutter.
+    -   Needle-nosed pliers.
+
+# 
 
 # The Lolin S2Mini
 
