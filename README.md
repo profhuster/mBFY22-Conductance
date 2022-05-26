@@ -68,7 +68,7 @@ Items needed with approximate cost.
 
 ![Figure 1: S2Mini pinout. The only DAC pins are 17 on the inside row
 and 18. Not all pins have ADC's. We will use pins 9, 11, and
-12.](Pictures/10000000000005220000038472D3B6C2ACFFCF76.jpg "fig:"){width="3in"
+12.](Figs/S2Mini_I2C_Pins_Edit.jpg "fig:"){width="3in"
 height="2.05in"}The pin assignments for the S2Mini are in *Figure 1*. To
 use on a breadboard, I only use the outside pins. Almost any pin can be
 used for digital in/out and ADC, but only pins 18 (and 17 which is not
