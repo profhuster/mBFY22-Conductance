@@ -20,5 +20,5 @@ the transition temperature of high Tc superconductors.
 # Guide to Project Files
 - [Main Guide to Project](https://github.com/profhuster/mBFY22-Conductance/blob/19ab132cf7104593252cab7fcc826aaca93124e6/Conductivity-CircuitPython_22d.pdf) You should download 
 this document and keep it open as you work.
-- [Setting Up a CircuitPython Microcontroller ]([https://duq.edu](https://github.com/profhuster/mBFY22-Conductance/blob/bd73491f5e60a5675a0e9d870f6eabee54c16e31/Setting_Up_CircuitPython_22a.pdf)) This is the guide to installing 
+- [Setting Up CircuitPythonr](https://github.com/profhuster/mBFY22-Conductance/blob/bd73491f5e60a5675a0e9d870f6eabee54c16e31/Setting_Up_CircuitPython_22a.pdf) This is the guide to installing 
 CircuitPython on a Microcontroller. You need to do this before working on the project.
