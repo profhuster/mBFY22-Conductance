@@ -15,4 +15,4 @@ To make the project more interesting you will also wire a Type K
 thermocouple to a microcontroller breakout board using a digital
 protocol. A type K thermocouples can read from -200 °C to 1350 °C. You can
 use them to measure the temperature coefficient of the resistance and
-the transition temperature of high T~c~ superconductors.
+the transition temperature of high Tc superconductors.
