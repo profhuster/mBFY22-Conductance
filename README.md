@@ -1,4 +1,4 @@
-# Conductance *versus* Temperature using CircuitPython on a Microcontroller
+# Conductivity *versus* Temperature using CircuitPython on a Microcontroller
 # Introduction
 
 The ESP32-S2 microcontoller has a true DAC (Digital to Analog
