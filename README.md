@@ -24,3 +24,5 @@ other experiments.
 this document and keep it open as you work.
 - [Setting Up CircuitPythonr](https://github.com/profhuster/mBFY22-Conductance/blob/bd73491f5e60a5675a0e9d870f6eabee54c16e31/Setting_Up_CircuitPython_22a.pdf) This is the guide to installing 
 CircuitPython on a Microcontroller. You need to do this before working on the project.
+
+[Back to mBFY22 page](https://github.com/profhuster/mBFY22)
